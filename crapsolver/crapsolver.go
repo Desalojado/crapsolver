@@ -17,10 +17,8 @@ const (
 
 var (
 	Nodes = GoCycle.New(&[]string{
-		//"http://127.0.0.1:80",
-		"https://node01.nikolahellatrigger.solutions",
-		"https://node02.nikolahellatrigger.solutions",
-		"https://node03.nikolahellatrigger.solutions",
+		"http://127.0.0.1:80",
+		"http://127.0.0.1:80",
 	})
 )
 
