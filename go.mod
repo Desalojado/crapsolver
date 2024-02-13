@@ -1,4 +1,4 @@
-module github.com/Implex-ltd/crapsolver
+module github.com/Desalojado/crapsolver
 
 go 1.21.0
 
